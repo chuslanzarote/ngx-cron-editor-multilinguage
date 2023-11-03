@@ -13,7 +13,7 @@ A work-in-progress demo can be found [here](https://haavardj.github.io/ngx-cron-
 
 1. Install the npm package:
     ```
-    $ npm i ngx-cron-editor -S
+    $ npm i ngx-cron-editor-multilingual -S
     ```
 
 2. Import the module in your own module:
